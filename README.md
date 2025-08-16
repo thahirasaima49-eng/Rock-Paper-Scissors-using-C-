@@ -27,6 +27,6 @@
 ---
 
 ## 📫 Let's Connect!
-- GitHub: [github.com/yourusername](https://github.com/thahirasaima49-eng)
+- GitHub: (https://github.com/thahirasaima49-eng)
 - Thanks for stopping by! 😊  
 *“Code, Learn, Improve, Repeat.”*
